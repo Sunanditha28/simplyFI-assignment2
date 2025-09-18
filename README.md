@@ -42,10 +42,10 @@ git clone https://github.com/Sunanditha28/simplyFI-assignment2.git
 cd simplyFI-assignment2
 ```
 
-###2. Install dependencies
+### 2. Install dependencies
 ```npm install```
 
-###3. Start the project
+### 3. Start the project
 ```npm start```
 
 

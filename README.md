@@ -40,3 +40,13 @@ It demonstrates usage of **Ant Design, Bootstrap, React state management, and fo
 ```bash
 git clone https://github.com/Sunanditha28/simplyFI-assignment2.git
 cd simplyFI-assignment2
+```
+
+###2. Install dependencies
+```npm install```
+
+###3. Start the project
+```npm start```
+
+
+The app will start at http://localhost:3000.
